@@ -24,8 +24,8 @@ public class GamOne {
         new Actions(driver);
 
        //open web page and enter access data
-        driver.get("http://www.google.de");
-        
+        driver.get("http://www.google.pl");
+
         // driver.findElement(By.id("chooseSM")).click();
 
         /*  select a game from DropDown
